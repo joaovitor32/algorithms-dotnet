@@ -1,0 +1,3 @@
+[submodule "algorithms-dotnet"]
+	path = algorithms-dotnet
+	url = git@github.com:joaovitor32/algorithms-dotnet
